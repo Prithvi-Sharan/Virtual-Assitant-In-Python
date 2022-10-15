@@ -1,0 +1,3 @@
+THIS IS A PERSONAL ASSITANT IN PYTHON THAT CAN DO YOUR WORK ON VOICE COMMANDS.
+
+TO RUN THIS PROGRAM, you need to add ***pass.txt*** with password of you smtp email access...
